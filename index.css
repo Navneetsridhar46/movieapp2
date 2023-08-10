@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Vina+Sans&display=swap');
+
+
+body{
+    background-image: url(./images/jack-reacher-star-wars-interstellar-movie-john-wick-wallpaper-preview.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+    background-color: rgba(0, 0, 0, 0.5);
+
+}
